@@ -1,0 +1,2 @@
+# koncitbot
+Heroku asu
